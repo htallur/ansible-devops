@@ -1,0 +1,5 @@
+---
+- src: https://github.com/htallur/ansible-rstudio.git
+  path: roles
+  name: ansible-rstudio
+  version: master
